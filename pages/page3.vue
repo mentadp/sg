@@ -2,8 +2,8 @@
   <div @click="$router.push('/')">
     <canvas ref="c2"></canvas>
   <img src="/2.jpg" class="img rounded-lg " alt="Foto">
-	<div class="text text-primary text-4xl" >Perdamenta Pelawi</div>
-	<div class="text2 text-primary  text-4xl" >ke-20</div>
+	<div class="text text-primary text-4xl" >Santa Ginting</div>
+	<div class="text2 text-primary  text-4xl" >ke-23</div>
 	<div class="text3 text-secondary  text-2xl" >
     "Semoga Panjang Umur & Sehat Selalu"
   </div>
